@@ -4,3 +4,8 @@ void main()
 {
  return;
 }
+
+void git_change_1()
+{
+}
+
