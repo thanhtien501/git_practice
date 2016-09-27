@@ -13,6 +13,10 @@ void change2()
 {
 }
 
+void change3()
+{
+}
+
 void change4()
 {
 }
