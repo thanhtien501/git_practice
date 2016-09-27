@@ -5,3 +5,4 @@ void main()
  return;
 }
 
+void add_test()
