@@ -12,3 +12,7 @@ void change1()
 void change2()
 {
 }
+
+void change3()
+{
+}
